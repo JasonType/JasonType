@@ -81,7 +81,10 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.youtube.com/c/Jasonbuss57" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://dsc.gg/Jasonbuss57Studios" target="_blank">
+<img src=https://https://cdn.writebots.com/wp-content/uploads/2018/10/discord-logo-blue.png alt=Discord style="margin-bottom: 5px;" />
+</a>
 </div>
 
 
