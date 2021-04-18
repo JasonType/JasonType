@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 </div>
 
 
-### <div align="center">💻I'm Jasonbuss57YT, a Developer since 2019💻</div>
+### <div align="center">💻I'm Jasonbuss57YT,💻</div>
 
 
-- 💻 I'm Developing with Node.js, JavaScript, Python, Java
-- 📖 I’m learning TypeScript and more.
+- 💻 I'm a Developer, since 2019
+- 📖 I’m learning Programming Languages
 
 <br/>
 
@@ -50,8 +50,9 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="33%">
 
+### Operating Systems
 <div align="center">  
-  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows 10" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
