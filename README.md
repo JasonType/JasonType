@@ -98,8 +98,7 @@ Here are some ideas to get you started:
 ## Projects  
 You must checkout these projects!!<br/><br/>
 <div align="center">
-<p><a href="https://github.com/Jasonbuss57YT/WinDevTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasonbuss57yt&repo=WinDevTools" alt="WinDevTools" /></a>
-<a href="https://github.com/Jasonbuss57YT/Discord-Token-Checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasonbuss57yt&repo=Discord-Token-Checker" alt="Discord-Token-Checker" /></a></p>
+<p><a href="https://github.com/Jasonbuss57YT/WinDevTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasonbuss57yt&repo=WinDevTools" alt="WinDevTools" /></a></p>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=34748927)
