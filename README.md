@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ### Operating Systems
 <div align="center">  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows 10" height="50" />
+<img style="margin: 10px" src="https://o.remove.bg/downloads/cdfbf0e5-1852-41d1-a872-49398d52964d/Windows-11-Win-X-Menu-icon-removebg-preview-removebg-preview.png" alt="Windows 11" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ### Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" height="50" /> 
-</div>
+</div
 
 </td></tr></table>  
 
@@ -73,9 +73,6 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://github.com/Jasonbuss57YT" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Jasonbuss572" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/Jasonbuss57YT" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
@@ -101,9 +98,8 @@ Here are some ideas to get you started:
 ## Projects  
 You must checkout these projects!!<br/><br/>
 <div align="center">
-<p><a href="https://github.com/Jasonbuss57YT/Jasonbuss57Studios-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasonbuss57yt&repo=Jasonbuss57Studios-bot" alt="Jasonbuss57Studios-bot" /></a>
-<a href="https://github.com/Jasonbuss57YT/Discord-Token-Checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasonbuss57yt&repo=Discord-Token-Checker" alt="Discord-Token-Checker" /></a>
-<a href="https://github.com/Jasonbuss57YT/Music-Bot-v12-discord"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasonbuss57yt&repo=Music-Bot-v12-discord" alt="Music-Bot-v12-discord" /></a></p>
+<p><a href="https://github.com/Jasonbuss57YT/WinDevTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasonbuss57yt&repo=WinDevTools" alt="WinDevTools" /></a>
+<a href="https://github.com/Jasonbuss57YT/Discord-Token-Checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasonbuss57yt&repo=Discord-Token-Checker" alt="Discord-Token-Checker" /></a></p>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=34748927)
