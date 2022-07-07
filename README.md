@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 ### Operating Systems
 <div align="center">  
 <img style="margin: 10px" src="https://i.redd.it/ne6ukkej06t71.png" alt="Windows 11" height="50" />
+<img style="margin: 10px" src="https://icons.iconarchive.com/icons/martz90/circle/128/ubuntu-icon.png" alt="Ubuntu" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
