@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ### Operating Systems
 <div align="center">  
-<img style="margin: 10px" src="https://o.remove.bg/downloads/cdfbf0e5-1852-41d1-a872-49398d52964d/Windows-11-Win-X-Menu-icon-removebg-preview-removebg-preview.png" alt="Windows 11" height="50" />
+<img style="margin: 10px" src="https://i.redd.it/ne6ukkej06t71.png" alt="Windows 11" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
