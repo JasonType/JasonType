@@ -61,7 +61,9 @@ Here are some ideas to get you started:
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" height="50" /> 
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" height="50" 
+/>
+<img style="margin: 10px" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/96/terminal-icon.png" alt="Terminal" height="50" />
 </div
 
 </td></tr></table>  
