@@ -1,6 +1,6 @@
 <img align="center" src="img/banner.png" alt="Banner" />
 <h1 align="center">Hi, there I'm JasonType</h1>
-<h3 align="center">A good Developer from Russia</h3>
+<h3 align="center"> A good Developer from Russia </h3>
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
 
 - 📝 I’m currently working on [WinDevTools](https://github.com/JasonType/WinDevTools)
