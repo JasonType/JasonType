@@ -6,7 +6,7 @@
 - 📝 I’m currently working on [WinDevTools](https://github.com/JasonType/WinDevTools)
 - 📖 I’m learning Programming Languages
 - 💻 I'm a Developer, since 2019
-- 📧 How to contact me **Jasonbuss57.developer@gmail.com**
+- 📧 How to contact me **contact.jasontype@gmail.com**
 
 ## Informationen
 <table><tr><td valign="top" width="33%">
