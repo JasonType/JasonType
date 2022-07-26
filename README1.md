@@ -1,17 +1,17 @@
 <h1 align="center">Hi, there I'm JasonType</h1>
 <h3 align="center">A good Developer from Russian</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasontype&label=Profile%20views&color=0e75b6&style=flat" alt="jasontype" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jasontype&label=Profile%20views&color=0e75b6&style=flat" alt="jasontype" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasontype" alt="jasontype" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasontype" alt="jasontype" /></a> </p>
 
-- 🔭 I’m currently working on [WinDevTools](https://github.com/JasonType/WinDevTools)
+- 📝 I’m currently working on [WinDevTools](https://github.com/JasonType/WinDevTools)
 
-- 📖 I’m learning **Programming Languages**
+- 📖 I’m learning Programming Languages
 
-- 💻 I'm a Developer, **since 2019**
+- 💻 I'm a Developer, since 2019
 
-- 📫 How to reach me **Jasonbuss57.developer@gmail.com**
+- 📧 How to contact me **Jasonbuss57.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,8 +25,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/jasontype"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jasontype" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasontype&show_icons=true&locale=en&layout=compact" alt="jasontype" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasontype&show_icons=true&locale=en&layout=compact" alt="jasontype" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasontype&show_icons=true&locale=en" alt="jasontype" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasontype&" alt="jasontype" /></p>
+
