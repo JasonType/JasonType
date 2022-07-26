@@ -104,15 +104,14 @@
   
 ## Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jasontype&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<br/>
 
 <div align="center">
 
 <p><a href="https://github.com/jasontype"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasontype&amp;layout=compact" alt="Top Langs"></a></p></div>
 
+<br/>
   
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jasontype&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 ## Projects  
 
@@ -126,7 +125,9 @@ You must checkout these projects!!<br/><br/>
 
 ![](https://hit.yhype.me/github/profile?user_id=34748927)
 ## Support
+<div align="center">
 <p><a href="https://ko-fi.com/jasontype"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jasontype" /></a></p><br><br>
+</div>
 
 
 
