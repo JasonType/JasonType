@@ -1,46 +1,28 @@
-![MasterHead](https://i.postimg.cc/1tWnrGQF/20220726-151806.png)
+<img align="center" src="img/banner.png" alt="Banner" />
 <h1 align="center">Hi, there I'm JasonType</h1>
 <h3 align="center">A good Developer from Russian</h3>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
 
-
 - 📝 I’m currently working on [WinDevTools](https://github.com/JasonType/WinDevTools)
-
 - 📖 I’m learning Programming Languages
-
 - 💻 I'm a Developer, since 2019
-
 - 📧 How to contact me **Jasonbuss57.developer@gmail.com**
 
-
 ## Informationen
-
 <table><tr><td valign="top" width="33%">
 
 ### Programming Languages  
-
 <div align="center">
-
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />      
-
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />          
-
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
 
 </div>
@@ -48,11 +30,8 @@
 </td><td valign="top" width="33%">
 
 ### Operating Systems
-
 <div align="center">  
-
 <img style="margin: 10px" src="https://i.redd.it/ne6ukkej06t71.png" alt="Windows 11" height="50" />
-
 <img style="margin: 10px" src="https://drasite.com/content/img/kali-dragon-icon.svg" alt="Kali Linux" height="50" />
 
 </div>
@@ -60,13 +39,8 @@
 </td><td valign="top" width="33%">
 
 ### Tools  
-
 <div align="center">  
-
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" height="50" /> 
-
-
-
 <img style="margin: 10px" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/96/terminal-icon.png" alt="Terminal" height="50" />
 
 </div
@@ -78,23 +52,16 @@
 ## Connect with me  
 
 <div align="center">
-
 <a href="https://github.com/JasonType" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white " alt=github style="margin-bottom: 5px;" />
 </a>
 
-
-
 <a href="https://dev.to/jasontype" target="_blank">
-
 <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt=devto style="margin-bottom: 5px;" />
-
 </a>
 
 <a href="https://www.youtube.com/c/JasonType" target="_blank">
-
 <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" />
-
 </a>
 
 </div>
@@ -102,10 +69,7 @@
 <br/>
   
 ## Github Stats  
-
-
 <div align="center">
-
 <p><a href="https://github.com/jasontype"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasontype&amp;layout=compact" alt="Top Langs"></a></p></div>
 
 <br/>
@@ -117,17 +81,14 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasontype" alt="jasontype" /></a> </p>
 
 ## Projects  
-
 You must checkout these projects!!<br/><br/>
-
 <div align="center">
-
 <p><a href="https://github.com/JasonType/WinDevTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontype&repo=WinDevTools" alt="WinDevTools" /></a></p>
-
 
 </div>
 
 ## Support me
 <div align="center">
 <p><a href="https://ko-fi.com/jasontype"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jasontype" /></a></p><br><br>
+
 </div>
