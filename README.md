@@ -1,7 +1,7 @@
 ![MasterHead]()
 <h1 align="center">Hi, there I'm JasonType</h1>
 <h3 align="center">A good Developer from Russian</h3>
-<img align="right" alt="Coding" width="400" src="" />
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
 
 
 - 📝 I’m currently working on [WinDevTools](https://github.com/JasonType/WinDevTools)
