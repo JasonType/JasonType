@@ -101,11 +101,35 @@
 </div>
 
 <br/>
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/jasontype"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jasontype" /></a></p><br><br>
+  
+## Github Stats  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasontype&show_icons=true&locale=en&layout=compact" alt="jasontype" /></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jasontype&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasontype&show_icons=true&locale=en" alt="jasontype" /></p>
+<br/>
+
+<div align="center">
+
+<p><a href="https://github.com/jasontype"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasontype&amp;layout=compact" alt="Top Langs"></a></p></div>
+
+  
+
+## Projects  
+
+You must checkout these projects!!<br/><br/>
+
+<div align="center">
+
+<p><a href="https://github.com/JasonType/WinDevTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontype&repo=WinDevTools" alt="WinDevTools" /></a></p>
+
+</div>
+
+![](https://hit.yhype.me/github/profile?user_id=34748927)
+## Support
+<p><a href="https://ko-fi.com/jasontype"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jasontype" /></a></p><br><br>
+
+
+
+
 
 
