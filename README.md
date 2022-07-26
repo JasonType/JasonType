@@ -1,8 +1,7 @@
+[![MasterHead]()]
 <h1 align="center">Hi, there I'm JasonType</h1>
 <h3 align="center">A good Developer from Russian</h3>
-
-
-
+<img align="right" alt="Coding" width="400" src="" />
 
 
 - 📝 I’m currently working on [WinDevTools](https://github.com/JasonType/WinDevTools)
@@ -125,16 +124,10 @@ You must checkout these projects!!<br/><br/>
 
 <p><a href="https://github.com/JasonType/WinDevTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontype&repo=WinDevTools" alt="WinDevTools" /></a></p>
 
+
 </div>
 
-![](https://hit.yhype.me/github/profile?user_id=34748927)
 ## Support me
 <div align="center">
 <p><a href="https://ko-fi.com/jasontype"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jasontype" /></a></p><br><br>
 </div>
-
-
-
-
-
-
