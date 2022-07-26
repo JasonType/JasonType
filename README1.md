@@ -1,9 +1,9 @@
 <h1 align="center">Hi, there I'm JasonType</h1>
 <h3 align="center">A good Developer from Russian</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jasontype&label=Profile%20views&color=0e75b6&style=flat" alt="jasontype" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasontype" alt="jasontype" /></a> </p>
+
+
 
 - 📝 I’m currently working on [WinDevTools](https://github.com/JasonType/WinDevTools)
 
@@ -112,6 +112,10 @@
 <br/>
   
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jasontype&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<br/>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasontype" alt="jasontype" /></a> </p>
 
 ## Projects  
 
