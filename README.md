@@ -128,7 +128,7 @@ You must checkout these projects!!<br/><br/>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=34748927)
-## Support
+## Support me
 <div align="center">
 <p><a href="https://ko-fi.com/jasontype"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jasontype" /></a></p><br><br>
 </div>
