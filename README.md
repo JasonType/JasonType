@@ -8,10 +8,10 @@
 - 💻 I'm a Developer, since 2019
 - 📧 How to contact me **contact@jasontype.me**
 
-## Informationen
+## ℹ️ Informationen
 <table><tr><td valign="top" width="33%">
 
-### Programming Languages  
+### 📖 Programming Languages  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
@@ -29,7 +29,7 @@
 
 </td><td valign="top" width="33%">
 
-### Operating Systems
+### ⚙️ Operating Systems
 <div align="center">  
 <img style="margin: 10px" src="https://i.redd.it/ne6ukkej06t71.png" alt="Windows 11" height="50" />
 <img style="margin: 10px" src="https://drasite.com/content/img/kali-dragon-icon.svg" alt="Kali Linux" height="50" />
@@ -38,7 +38,7 @@
 
 </td><td valign="top" width="33%">
 
-### Tools  
+### 🛠️ Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" height="50" /> 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1280px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" height="50" />
@@ -69,7 +69,7 @@
 
 <br/>
   
-## Github Stats  
+## 📊 Github Stats  
 <div align="center">
 <p><a href="https://github.com/jasontype"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasontype&amp;layout=compact" alt="Top Langs"></a></p></div>
 
@@ -81,14 +81,14 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasontype" alt="jasontype" /></a> </p>
 
-## Projects  
+## 🚧 Projects  
 You must checkout these projects!!<br/><br/>
 <div align="center">
 <p><a href="https://github.com/JasonType/WinDevTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontype&repo=WinDevTools" alt="WinDevTools" /></a></p>
 
 </div>
 
-## Support me
+## ☕ Support me
 <div align="center">
 <p><a href="https://ko-fi.com/jasontype"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jasontype" /></a></p><br><br>
 
