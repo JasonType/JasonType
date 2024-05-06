@@ -71,11 +71,11 @@
   
 ## 📊 Github Stats  
 <div align="center">
-<p><a href="https://github.com/jasontype"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasontype&amp;layout=compact#gh-dark-mode-only" alt="Top Langs"></a></p></div>
+<p><a href="https://github.com/jasontype"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasontype&amp;layout=compact&theme=blue_navy" alt="Top Langs"></a></p></div>
 
 <br/>
   
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jasontype&show_icons=true&count_private=true&hide_border=true#gh-dark-mode-only" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jasontype&show_icons=true&count_private=true&hide_border=true&theme=blue_navy" align="center" /></div>
 
 <br/>
 
@@ -84,7 +84,7 @@
 ## 🚧 Projects  
 You must checkout these projects!!<br/><br/>
 <div align="center">
-<p><a href="https://github.com/JasonType/PyWinTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontype&repo=PyWinTools#gh-dark-mode-only" alt="PyWinTools" /></a></p>
+<p><a href="https://github.com/JasonType/PyWinTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontype&repo=PyWinTools&theme=blue_navy" alt="PyWinTools" /></a></p>
 
 </div>
 
