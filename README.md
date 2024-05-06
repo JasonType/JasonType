@@ -41,6 +41,7 @@
 ### Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" height="50" /> 
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1280px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" height="50" />
 <img style="margin: 10px" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/96/terminal-icon.png" alt="Terminal" height="50" />
 
 </div
