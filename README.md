@@ -49,7 +49,7 @@
 
 <br/>  
 
-## Connect with me  
+## 🌐 Socials
 
 <div align="center">
 <a href="https://github.com/JasonType" target="_blank">
