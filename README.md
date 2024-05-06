@@ -3,7 +3,7 @@
 <h3 align="center"> A good Developer from Russia </h3>
 <img align="right" alt="Coding" width="225" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" />
 
-- 📝 I’m currently working on [WinDevTools](https://github.com/JasonType/WinDevTools)
+- 📝 I’m currently working on [PyWinTools](https://github.com/JasonType/PyWinTools)
 - 📖 I’m learning Programming Languages
 - 💻 I'm a Developer, since 2019
 - 📧 How to contact me **contact.jasonbuss@gmail.com**
@@ -84,7 +84,7 @@
 ## 🚧 Projects  
 You must checkout these projects!!<br/><br/>
 <div align="center">
-<p><a href="https://github.com/JasonType/WinDevTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontype&repo=WinDevTools" alt="WinDevTools" /></a></p>
+<p><a href="https://github.com/JasonType/WinDevTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontype&repo=PyWinTools" alt="WinDevTools" /></a></p>
 
 </div>
 
