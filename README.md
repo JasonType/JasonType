@@ -6,7 +6,7 @@
 - 📝 I’m currently working on [PyWinTools](https://github.com/JasonType/PyWinTools)
 - 📖 I’m learning Programming Languages
 - 💻 I'm a Developer, since 2019
-- 📧 How to contact me **contact.jasonbuss@gmail.com**
+- 📧 How to contact me **contact@jasontype.live**
 
 ## ℹ️ Informationen
 <table><tr><td valign="top" width="33%">
