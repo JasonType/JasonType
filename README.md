@@ -38,7 +38,7 @@
 
 </td><td valign="top" width="33%">
 
-### 🛠️ Tools  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" height="50" /> 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1280px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" height="50" />
