@@ -1,10 +1,10 @@
 <img align="center" src="assets/img/banner.png" alt="Banner" />
-<h1 align="center">Hi, there I'm JasonType</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="30" height="30" />Hi, there I'm JasonType</h1>
 <h3 align="center"> A good Developer from Russia </h3>
 <img align="right" alt="Coding" width="225" src="assets/img/banner2.gif" />
 
-- 📝 I’m currently working on **[PyWinTools](https://github.com/JasonType/PyWinTools/)**
-- 📖 I’m learning Programming Languages
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" width="25" height="25" /> I’m currently working on **[PyWinTools](https://github.com/JasonType/PyWinTools/)**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Eight O’Clock.png" alt="Eight O’Clock" width="25" height="25" /> I’m learning Programming Languages
 - 💻 I'm a Developer, since 2019
 - 📧 How to contact me **contact@jasontype.live**
 
