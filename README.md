@@ -13,11 +13,11 @@
 
 ### 📖 Programming Languages  
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+<img style="margin: 10px" src="assets/img/nodejs.svg" alt="Node.js" height="50" /> 
+<img style="margin: 10px" src="assets/img/reactjs.svg" alt="React.js" height="50" />
+<img style="margin: 10px" src="assets/img/c.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="assets/img/c++.svg" alt="C++" height="50" />
+<img style="margin: 10px" src="assets/img/c#.svg" alt="C#" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
