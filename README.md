@@ -17,7 +17,7 @@
 <img style="margin: 10px" src="assets/img/reactjs.svg" alt="React.js" height="50" />
 <img style="margin: 10px" src="assets/img/c.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="assets/img/c++.svg" alt="C++" height="50" />
-<img style="margin: 10px" src="assets/img/c#.svg" alt="C#" height="50" />
+<img style="margin: 10px" src="assets/img/csharp.svg" alt="C#" height="50" />
 <img style="margin: 10px" src="assets/img/java.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="assets/img/javascript.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="assets/img/typescript.svg" alt="TypeScript" height="50" />
