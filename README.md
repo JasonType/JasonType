@@ -1,4 +1,4 @@
-<img align="center" src="img/banner.png" alt="Banner" />
+<img align="center" src="assets/img/banner.png" alt="Banner" />
 <h1 align="center">Hi, there I'm JasonType</h1>
 <h3 align="center"> A good Developer from Russia </h3>
 <img align="right" alt="Coding" width="225" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" />
