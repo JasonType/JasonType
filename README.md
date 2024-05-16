@@ -5,13 +5,13 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" width="25" height="25" /> I’m currently working on **[PyWinTools](https://github.com/JasonType/PyWinTools/)** and **[JasonType.live](https://github.com/JasonType/JasonType.live/)**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Eight O’Clock.png" alt="Eight O’Clock" width="25" height="25" /> I’m learning Programming Languages
-- 💻 I'm a Developer, since 2019
-- 📧 How to contact me **contact@jasontype.live**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> I'm a Developer, since 2019
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to contact me **contact@jasontype.live**
 
-## ℹ️ Informationen
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Information.png" alt="Information" width="25" height="25" /> Informationen
 <table><tr><td valign="top" width="33%">
 
-### 📖 Programming Languages  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Programming Languages  
 <div align="center">
 <a href="https://nodejs.org/"><img style="margin: 10px" src="assets/img/nodejs.svg" alt="Node.js" height="50" /></a>
 <a href="https://react.dev/"><img style="margin: 10px" src="assets/img/reactjs.svg" alt="React.js" height="50" /></a>
@@ -32,7 +32,7 @@
 
 </td><td valign="top" width="33%">
 
-### ⚙️ Operating Systems
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Operating Systems
 <div align="center">  
 <a href="https://www.microsoft.com/de-de/software-download/windows11/"><img style="margin: 10px" src="assets/img/win11.png" alt="Windows 11" height="50" /></a>
 <a href="https://www.kali.org/"><img style="margin: 10px" src="assets/img/kalilinux.svg" alt="Kali Linux" height="50" /></a>
@@ -53,7 +53,7 @@
 
 <br/>  
 
-## 🌐 Socials
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Socials
 
 <div align="center">
 <a href="https://github.com/JasonType" target="_blank">
@@ -69,7 +69,7 @@
 
 <br/>
   
-## 📊 Github Stats  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Github Stats  
 <div align="center">
 <p><a href="https://github.com/jasontype/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasontype&amp;layout=compact&theme=blue_navy" alt="Top Langs"></a></p></div>
 
@@ -81,7 +81,7 @@
 
 <p align="center"> <a href="https://github.com/jasontype/"><img src="https://github-profile-trophy.vercel.app/?username=jasontype&theme=onedark" alt="jasontype" /></a> </p>
 
-## 🚧 Projects  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Construction.png" alt="Construction" width="25" height="25" /> Projects  
 You must checkout these projects!!<br/><br/>
 <div align="center">
 <p><a href="https://github.com/JasonType/PyWinTools/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontype&repo=PyWinTools&theme=blue_navy" alt="PyWinTools" /></a></p>
@@ -89,7 +89,7 @@ You must checkout these projects!!<br/><br/>
 <p><a href="https://github.com/JasonType/JasonType-License/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontype&repo=JasonType-License&theme=blue_navy" alt="PyWinTools" /></a></p>
 </div>
 
-## ☕ Support me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> Support me
 <div align="center">
 <p><a href="https://ko-fi.com/jasontype/"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jasontype" /></a></p><br><br>
 
