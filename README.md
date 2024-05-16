@@ -85,6 +85,7 @@
 You must checkout these projects!!<br/><br/>
 <div align="center">
 <p><a href="https://github.com/JasonType/PyWinTools/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontype&repo=PyWinTools&theme=blue_navy" alt="PyWinTools" /></a></p>
+<p><a href="https://github.com/JasonType/JasonType.live/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontype&repo=JasonType.live&theme=blue_navy" alt="PyWinTools" /></a></p>
 
 </div>
 
